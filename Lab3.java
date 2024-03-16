@@ -12,7 +12,7 @@ public class Lab3 {
 
         fahrenheit = 98.6f;
         centigrade = 5f/9f * (fahrenheit - 32f);
-        System.out.println("The fahrenheit is: " + fahrenheit + " the centigrade is: " + centigrade);
+        System.out.println("The fahrenheit is: " + fahrenheit + " and the centigrade is: " + centigrade);
 
         System.out.println("FOR LOOP: ");
         
