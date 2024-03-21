@@ -1,5 +1,5 @@
 package Project.Project3;
-//IMPORTS
+//IMPORT
 import javax.swing.JFrame;
 import java.awt.GridLayout;
 import javax.swing.JTextArea;
