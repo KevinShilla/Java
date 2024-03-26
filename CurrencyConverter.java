@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class CurrencyConverter {
 double convert;
 
-
 public void Tanzanian_USD(double money_USD) {
     convert = money_USD * 0.00043; 
     System.out.print("$ ");
