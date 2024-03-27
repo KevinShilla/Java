@@ -14,15 +14,6 @@ public class bankAccount  {
    /**  Count of lines read so far.  */
    private int lineCount = 0;
 
-   /**
-    * Creates a buffered character input
-    * strea, for the specified text file.
-    *
-    * @param filename the input text file.
-    * @exception RuntimeException if an
-    *          IOException is thrown when
-    *          attempting to open the file.
-    */
    public bankAccount(String filename)
    {
       this.filename = filename;
@@ -35,16 +26,7 @@ public class bankAccount  {
       }  // catch
    }  // constructor
 
-   /**
-    * Closes this character input stream.
-    * No more characters can be read from
-    * this TextFileInput once it is closed.
-    * @exception NullPointerException if
-    *        the file is already closed.
-    * @exception RuntimeException if an
-    *       IOException is thrown when
-    *       closing the file.
-    */
+
    public void close()
    {
       try  {
