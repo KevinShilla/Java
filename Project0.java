@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
 
+
 public class Project0{
     public static void main(String[] args) {
      int upperCase = 0; // checks the E upper case
