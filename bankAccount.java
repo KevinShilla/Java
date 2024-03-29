@@ -5,7 +5,6 @@ import java.io.IOException;
 
 public class bankAccount  {
 
-   /**  Name of text file  */
    private String filename;
 
    /**  Buffered character stream from file  */
