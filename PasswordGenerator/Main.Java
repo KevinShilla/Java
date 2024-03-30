@@ -1,6 +1,7 @@
 import javax.swing.JOptionPane;
 import java.util.Random;
 
+
 public class Main {
     public static void main(String[] args) {
         String s = JOptionPane.showInputDialog(null, "Please enter the length of your desired password (Minimum 5)"); 
