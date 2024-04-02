@@ -1,5 +1,4 @@
 package Project.Project2;
-
 import javax.swing.JFrame;
 import javax.swing.JTextArea;
 import java.awt.GridLayout;
